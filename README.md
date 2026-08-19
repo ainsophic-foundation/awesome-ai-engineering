@@ -85,4 +85,4 @@ Ver [CONTRIBUTING.md](CONTRIBUTING.md) — hay criterios distintos para agregar 
 
 ## Licencia
 
-[CC0 1.0](LICENSE) — dominio público. Los recursos linkeados conservan sus propias licencias originales.
+[CC BY 4.0](LICENSE) — libre de usar, adaptar y redistribuir, incluso comercialmente, citando la fuente. Los recursos linkeados conservan sus propias licencias originales.
